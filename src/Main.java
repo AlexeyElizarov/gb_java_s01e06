@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
+        // ToCheck
+
         Animal dog1 = new Dog();
         System.out.println("\nDog 1");
         System.out.print(dog1);
